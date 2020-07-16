@@ -15,6 +15,10 @@ class ViewController: UIViewController {
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var tipControl: UISegmentedControl!
     
+    @IBOutlet weak var totalTwo: UILabel!
+    @IBOutlet weak var totalThree: UILabel!
+    @IBOutlet weak var totalFour: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -37,7 +41,9 @@ class ViewController: UIViewController {
         tipLabel.text = String(format: "$%.2f", tip)
         totalLabel.text = String(format: "$%.2f", total)
         
-        
+        totalTwo.text = String(format: "$%.2f", total/2)
+        totalThree.text = String(format: "$%.2f", total/3)
+        totalFour.text = String(format: "$%.2f", total/4)
     }
     
 }
