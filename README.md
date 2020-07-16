@@ -29,7 +29,6 @@ Here's a walkthrough of implemented user stories:
 
 ![TipCal](https://i.makeagif.com/media/7-16-2020/iIhJeK.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
