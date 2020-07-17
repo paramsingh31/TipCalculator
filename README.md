@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![TipCal](https://i.makeagif.com/media/7-16-2020/iIhJeK.gif)
+![TipCal](https://imgur.com/gallery/77NKOBq/comment/1906665707)
 
 
 ## Notes
