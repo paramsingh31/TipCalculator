@@ -30,10 +30,6 @@ Here's a walkthrough of implemented user stories:
 ![TipCal](https://i.makeagif.com/media/7-16-2020/iIhJeK.gif)
 
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [yyyy] [name of copyright owner]
